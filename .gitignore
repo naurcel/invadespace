@@ -34,3 +34,4 @@ Thumbs.db
 
 # Ignore audio and image cache (if any)
 *.tmp
+.qodo
